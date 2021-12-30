@@ -1,0 +1,7 @@
+debian/aide.conf usr/share/aide/config/aide
+debian/aide.conf.d usr/share/aide/config/aide
+debian/aide.settings.d usr/share/aide/config/aide
+debian/aideinit usr/sbin
+debian/cron.daily/aide usr/share/aide/config/cron.daily
+debian/default/aide usr/share/aide/config/default
+debian/ucf-helper/ucf-helper-functions.sh /usr/share/aide

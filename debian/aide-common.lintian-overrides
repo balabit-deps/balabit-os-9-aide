@@ -1,0 +1,4 @@
+aide-common: maintainer-script-calls-start-stop-daemon
+aide-common: uses-dpkg-database-directly
+aide-common: repeated-path-segment aide usr/share/aide/config/aide/
+

@@ -1,0 +1,2 @@
+aide source: very-long-line-length-in-source-file debian/aide.conf.d/10_aide_constants line 2 is 709 characters long (>512)
+aide source: very-long-line-length-in-source-file debian/aide.conf.d/31_aide_udev line 46 is 741 characters long (>512)
