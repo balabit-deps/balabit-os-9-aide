@@ -1,3 +1,11 @@
+aide (0.17.4-1ubuntu0.1) jammy; urgency=medium
+
+  * Fix error caused by a missing new line at the end of a configuration file
+    (LP: #2045923) 
+    - d/aide.conf.d/31_aide_apt
+
+ -- Ghadi Elie Rahme <ghadi.rahme@canonical.com>  Wed, 06 Nov 2024 15:26:32 +0000
+
 aide (0.17.4-1) unstable; urgency=medium
 
   * new upstream release
