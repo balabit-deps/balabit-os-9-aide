@@ -1,3 +1,14 @@
+aide (0.17.4-1ubuntu0.2) jammy-security; urgency=medium
+
+  * SECURITY UPDATE: bypass AIDE detection of malicious files
+    - d/p/CVE-2025-54389.patch: fix output neutralization.
+    - CVE-2025-54389
+  * SECURITY UPDATE: Denial of service
+    - d/p/CVE-2025-54409.patch: fix null pointer dereference and segfault
+    - CVE-2025-54409
+
+ -- Eduardo Barretto <eduardo.barretto@canonical.com>  Mon, 11 Aug 2025 11:59:11 +0200
+
 aide (0.17.4-1ubuntu0.1) jammy; urgency=medium
 
   * Fix error caused by a missing new line at the end of a configuration file

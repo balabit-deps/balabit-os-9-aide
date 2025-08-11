@@ -1,7 +1,8 @@
 Source: aide
 Section: admin
 Priority: optional
-Maintainer: Aide Maintainers <aide@packages.debian.org>
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+XSBC-Original-Maintainer: Aide Maintainers <aide@packages.debian.org>
 Uploaders: Marc Haber <mh+debian-packages@zugschlus.de>,
            Hannes von Haugwitz <hannes@vonhaugwitz.com>
 Build-Depends: bison,
